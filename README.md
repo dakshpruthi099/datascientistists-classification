@@ -6,4 +6,4 @@ A company who is looking to hire Data Scientists wants to make the process quick
 
 The company started a training program and collected the data of all the people who participated in the program.
 
-By using predictive modeling, we are classifying the profiles of the candidates to determine their likeliness to switch jobs.
+By using predictive modeling, the task of classifying the profiles of the candidates to determine their likeliness to switch jobs is accomplished.
